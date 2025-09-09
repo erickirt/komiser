@@ -160,6 +160,10 @@ We will need a URL to an SVG or png logo, a text title, and a company URL.
   <img src="https://contrib.rocks/image?repo=tailwarden/komiser" />
 </a>
 
+## Resources
+
+<h1 align="center"><a href="https://www.manning.com/books/practical-finops"><img src=".github/images/book.png" alt="Book"></a></h1>
+
 ## Versioning 🧮
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/tailwarden/komiser/tags). 
